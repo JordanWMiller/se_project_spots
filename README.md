@@ -2,6 +2,7 @@
 
 ### Overview  
 
+This project contains a profile section along with a card section that contains multiple cards with images and titles. 
 * Intro  
 * Figma  
 * Images  
