@@ -9,7 +9,7 @@ Profile image sharing Application
 
 ## Deployment 
 
-URL: https://jordanwmiller.github.io/se_project_spots/
+[URL] (https://jordanwmiller.github.io/se_project_spots/)
 
 ## Improvments
 
