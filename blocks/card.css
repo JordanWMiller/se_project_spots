@@ -22,11 +22,10 @@
   font-weight: 500;
   font-size: 20px;
   text-overflow: ellipsis;
-  white-space: nowrap;
   overflow: hidden;
   display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
   max-width: 420px;
 }
 
