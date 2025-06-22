@@ -16,4 +16,4 @@ Profile image sharing Application
 - Customization
 - Ability to interact with website more
 
-[video] (https://drive.google.com/file/d/1sTfF0OPMibs8jXI6ntQQSfsLO8lEHlDM/view?usp=drive_link)
+[video] (https://drive.google.com/file/d/1nj_t8cpjLYXQ19C37vQn5Sin1INOvcpt/view?usp=sharing)
