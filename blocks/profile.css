@@ -55,12 +55,10 @@
   color: rgba(33, 33, 33, 1);
   height: 16px;
   margin-top: auto;
-  margin-right: auto;
   border: none;
   opacity: 70%;
   background-color: transparent;
   gap: 8px;
-  margin-right: auto;
 }
 
 .profile__edit-btn:hover {
@@ -120,10 +118,6 @@
 
   .profile__column {
     margin: 0 0 20px;
-  }
-
-  .profile__edit-btn {
-    justify-content: center;
   }
 
   .profile__add-btn {
