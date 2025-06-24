@@ -126,4 +126,8 @@
     align-items: center;
     width: 100%;
   }
+
+  .profile__edit-btn {
+    align-self: center;
+  }
 }
