@@ -35,7 +35,7 @@
 .modal__title {
   font-size: 32px;
   font-weight: 500;
-  margin: 0 0 32;
+  margin: 0 0 32px;
 }
 
 .modal__label {
@@ -51,7 +51,7 @@
   margin: 8px 0 0;
   width: 100%;
 }
-.model__input::placeholder {
+.modal__input::placeholder {
   color: #2121214d;
   font-size: 20px;
 }
