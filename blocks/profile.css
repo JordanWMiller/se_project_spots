@@ -34,7 +34,7 @@
   max-width: 420px;
   margin: 0;
   font-weight: 500;
-  line-height: 1;
+  line-height: 1.5;
   text-overflow: ellipsis;
   overflow: hidden;
 }
